@@ -1,0 +1,14 @@
+DEC 2020
+
+- given a file of size 1TB containing random integers, how do sort these integers in a memory of 1GB
+and design a service for this requirement
+
+- write a function to swap two integers without using third variable
+
+DS and ALgorithms
+- remove duplicate nodes from linked-list
+- all possible paths from root node to leaf node in a tree
+- determine how many times array has been rotated
+-
+
+

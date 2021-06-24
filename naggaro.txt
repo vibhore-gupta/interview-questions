@@ -1,0 +1,85 @@
+June 2021
+
+sql
+- joins
+- advance features
+- 3rd highest salary without subquery
+- rank vs dense rank, CTE
+- views, stored procedures, functions
+- partioning in sql
+- indexes working
+- impact of indexes on insert/update/delete
+- types of indexes
+- optimize sql query performance 
+
+Microservices
+- saga pattern
+- cqrs
+- api gateway- ocelot
+- rest API vs microservice
+- service discovery
+- circuit breaker pattern
+- openapi standards
+
+.net core
+- application builder
+- use vs run
+- dependency injection
+
+asp.net mvc
+- how to return json from action method
+- media formatters
+- input validations
+- view engines
+- model binding
+- model validation using data annotations
+- keep vs peek
+- content negotiation
+- 404 status code use case
+- api versioning- need and how to do it
+
+asp.net core mvc
+- edmx
+- code first approach
+
+c# and oops
+- dictionary initializer
+- static vs singleton
+- abstract vs interface
+- Idisposable interface
+- using block
+- memory management process in .net(garbage collector)
+- thread vs task
+- how to start a new thread
+- multiple interface implementations
+- static constructors and their usage
+
+unit testing
+- mocking
+- mock vs stub
+- how to test for exception being thrown
+
+mongodb
+jenkins
+static code analysis tools
+
+containerization
+- vm vs container
+- disadvantages of docker
+- why to use docker and when not to use docker
+- pod vs node
+
+design redis like service
+dsign a solution for detecting machines running pirated windows all over the world
+
+Aws
+- cloudwatch vs cloudtrail
+- lambda , layers, execution time , memory allocation
+
+web security
+- csrf tokens - what is the use
+- xss how to prevent
+- etags- what is the use
+- client side form validations
+
+

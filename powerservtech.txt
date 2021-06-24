@@ -1,0 +1,15 @@
+June 2021
+
+- SOLID
+- abstract vs interface
+- can interface inherit a interface?
+- dependency injection
+- abstraction
+
+sql
+- want to normalize tables in sql, but dont want to change application code , how to handle such scenario
+- triggers
+- impact of indexing on inset/update/delete
+- indexes and its types
+
+

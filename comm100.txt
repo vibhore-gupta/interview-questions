@@ -1,0 +1,17 @@
+June 2021
+
+Technical
+- class diagram for a LIVE chat system
+- database diagram for ticketing system where admins can add custom fields
+- how to optmize page load time with a chat bot 
+- CORS, XSS
+- sql indexes, types of indexes
+- IQueryable vs IEnumerable
+- Generics, what and why it is used
+- Generics Constraints
+
+behavioural
+- how do you resolve conflicts in teams
+- how do you handle when someone in your team is reporting wrong status in DSMs
+- how do you handle when someone in your team is struggling with the work pressure
+- learnings from various projects, mistakes, takeaways

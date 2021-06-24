@@ -1,0 +1,8 @@
+April 2021
+
+design a elevator using object oriented principles which can be operated using a mobile app
+- architecture
+- components and their interfacing
+
+microservices
+- how to handle if one microservice is not responding, how a system behave in this case
