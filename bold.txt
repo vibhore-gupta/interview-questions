@@ -1,0 +1,5 @@
+oct 2020
+
+- cookies and their use
+- design MVC like framework
+- MVC request lifecycle

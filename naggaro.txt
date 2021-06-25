@@ -83,5 +83,6 @@ web security
 - xss how to prevent
 - etags- what is the use
 - client side form validations
+- local storage vs session storage
 
 
