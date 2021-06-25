@@ -10,6 +10,7 @@ Technical
 - Generics, what and why it is used
 - Generics Constraints
 - local storage vs session storage
+- Garbage collection algorithm
 
 behavioural
 - how do you resolve conflicts in teams
