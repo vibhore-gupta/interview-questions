@@ -20,6 +20,8 @@ Microservices
 - service discovery
 - circuit breaker pattern
 - openapi standards
+- how to trace communication between microservices
+- how do microservices communicate with each other
 
 .net core
 - application builder

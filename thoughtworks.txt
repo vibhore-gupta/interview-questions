@@ -3,6 +3,16 @@ April 2021
 design a elevator using object oriented principles which can be operated using a mobile app
 - architecture
 - components and their interfacing
+- low level diagram
 
 microservices
 - how to handle if one microservice is not responding, how a system behave in this case
+- how to decompose monolith to microservices
+- how to do database miragation with zero down time
+
+misc
+- what is the most difficult bug/issue you have solved
+
+js
+- ES 6 features
+- explain currying

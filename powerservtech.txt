@@ -11,5 +11,6 @@ sql
 - triggers
 - impact of indexing on inset/update/delete
 - indexes and its types
+- truncate vs delete
 
 
