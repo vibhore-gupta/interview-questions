@@ -3,3 +3,10 @@ oct 2020
 - cookies and their use
 - design MVC like framework
 - MVC request lifecycle
+- dependency injection and instance lifetime management
+- can i use singleton services inside transient services
+- database diagram for customer, orders and product table
+- method overloading
+- runtime polymorphism
+- how to prevent instance method hiding
+- various types of action results 
