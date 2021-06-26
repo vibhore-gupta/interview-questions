@@ -1,5 +1,8 @@
 April 2021
 
+Pair programming exercise- 2 hours
+implement a story on a given codebase, followed by a code review 
+
 design a elevator using object oriented principles which can be operated using a mobile app
 - architecture
 - components and their interfacing
