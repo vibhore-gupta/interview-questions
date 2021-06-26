@@ -1,0 +1,3 @@
+Technical
+- double vs float , what to use and when
+- IEnumerable vs List as a return type for interface method
