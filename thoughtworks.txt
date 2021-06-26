@@ -3,6 +3,7 @@ April 2021
 Pair programming exercise- 2 hours
 implement a story on a given codebase, followed by a code review 
 
+Technical 2 Rounds:
 design a elevator using object oriented principles which can be operated using a mobile app
 - architecture
 - components and their interfacing
@@ -12,6 +13,7 @@ microservices
 - how to handle if one microservice is not responding, how a system behave in this case
 - how to decompose monolith to microservices
 - how to do database miragation with zero down time
+- use of x-correlation-id in microservices
 
 misc
 - what is the most difficult bug/issue you have solved
