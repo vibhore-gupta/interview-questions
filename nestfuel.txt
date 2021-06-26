@@ -1,3 +1,4 @@
 Technical
+- Code review , try to find 25 potential issues in the given code
 - double vs float , what to use and when
 - IEnumerable vs List as a return type for interface method
