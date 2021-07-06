@@ -4,7 +4,7 @@ Technical
 - class diagram for a LIVE chat system
 - database diagram for ticketing system where admins can add custom fields
 - how to optmize page load time with a chat bot 
-- CORS, XSS
+- CORS, XSS, options request
 - sql indexes, types of indexes
 - IQueryable vs IEnumerable
 - Generics, what and why it is used
